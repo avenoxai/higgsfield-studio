@@ -46,6 +46,9 @@ cp -R higgsfield-studio/skills/* ~/.claude/skills/
 
 - [`notlar/seedance-uretim-notlari.md`](notlar/seedance-uretim-notlari.md) —
   Seedance'in sahada öğrenilen davranışları: kuyruk, faturalama, loop mührü.
+- [`notlar/oyun-reklami-promptlari.md`](notlar/oyun-reklami-promptlari.md):
+  çekim yapmadan üretilen oyun reklamının bütün promptları, sırasıyla: tarz
+  kilidi, referans paketi, Türkçe replikler, müzik, Seedance sahneleri, maliyet.
 
 ## Örnek çıktı
 
