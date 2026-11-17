@@ -1,6 +1,6 @@
 # Oyun reklamı: videodaki bütün promptlar
 
-[VİDEO BAŞLIĞI VE LİNKİ] videosunun eki. Videoda Claude ve Seedance 2.5 ile,
+[Avenox](https://www.youtube.com/@Avenoxai) kanalındaki oyun reklamı videosunun eki. Videoda Claude ve Seedance 2.5 ile,
 çekim yapmadan 55,8 saniyelik dikey bir oyun reklamı ürettik. Bu sayfa o işin
 tarifi: Claude'a verdiğim promptlar ve Claude'un modellere gönderdiği
 promptların aslı, kullanıldıkları sırayla.
@@ -35,8 +35,6 @@ Kullanılan modeller (hepsi Higgsfield içinde):
 
 Reklamın sesini yazıya çevirmek ve replikleri kontrol etmek için Whisper
 kullanıldı; benim bilgisayarımda çalışıyor.
-
-Higgsfield: [HIGGSFIELD LİNKİ]
 
 ## 1) Claude'a verdiğim promptlar
 
